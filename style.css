@@ -13,6 +13,8 @@ body {
   scroll-behavior: smooth;
   font-family: "Poppins", sans-serif;
 }
+img{object-fit: contain;}
+
 li {
   list-style: none;
 }
@@ -3270,3 +3272,4 @@ input {
     margin-bottom: 2rem;
   }
 }
+
